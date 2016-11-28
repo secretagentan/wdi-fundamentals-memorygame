@@ -64,6 +64,14 @@ h1, h2 {
 	float: left;
 }
 
+img {
+	height: 200px;
+	width: 150px;
+	border-radius: 10px;
+	margin: 8%;
+	float: left;
+}
+
 footer {
 	text-align: center;
 	background: #808080;
